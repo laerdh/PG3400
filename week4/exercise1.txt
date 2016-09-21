@@ -1,0 +1,29 @@
+Exercise 1
+
+Answer:
+The size of pointers are
+	pInt = 8 (bytes)
+	pChar = 8 (bytes)
+	pShort = 8 (bytes)
+	pDouble = 8 (bytes)
+
+The size of variables are
+	*pInt = 4 (bytes)
+	*pChar = 1 (byte)
+	*pShort = 2 (bytes)
+	*pDouble = 8 (bytes)
+
+Her spør vi om størrelsen på det allokerte området -> sizeOf(*pInt). 
+*pInt ber om hva som ligger på plassen pekeren pInt peker til.
+
+
+Exercise 2
+
+Answer:
+	see /code
+
+
+Exercise 3
+
+Answer:
+	see /code
